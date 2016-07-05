@@ -9,7 +9,7 @@ Example
      <br>user2,item2,score3
 
 + Command
-  -- <br>python formatting --input <filename> --token , --format FM 
+  
   
 Requirements
 ----
